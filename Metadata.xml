@@ -1,0 +1,133 @@
+﻿<metadata>
+
+  <attr path="/api/package[@name='com.bumptech.glide']/interface[@name='BitmapOptions']"
+        name="visibility">public</attr>
+
+  <attr path="/api/package[@name='com.bumptech.glide']/interface[@name='DrawableOptions']"
+        name="visibility">public</attr>
+
+  <attr path="/api/package[@name='com.bumptech.glide']/interface[@name='DownloadOptions']"
+        name="visibility">public</attr>
+
+  <attr path="/api/package[@name='com.bumptech.glide.load.engine.bitmap_recycle']/interface[@name='LruPoolStrategy']"
+        name="visibility">public</attr>
+
+  <attr path="/api/package[@name='com.bumptech.glide.load.engine.bitmap_recycle']/interface[@name='Poolable']"
+        name="visibility">public</attr>
+
+  <attr path="/api/package[@name='com.bumptech.glide.load.engine.bitmap_recycle']/class[@name='BaseKeyPool']"
+        name="visibility">public</attr>
+
+  <attr path="/api/package[@name='com.bumptech.glide.load.engine']/interface[@name='EngineJobListener']"
+        name="visibility">public</attr>
+
+  <attr path="/api/package[@name='com.bumptech.glide.load.engine']/class[@name='EngineJob']"
+        name="visibility">public</attr>
+
+  <attr path="/api/package[@name='com.bumptech.glide.load.engine']/class[@name='EngineResource']"
+        name="visibility">public</attr>
+
+  <attr path="/api/package[@name='org.litepal.crud']/class[@name='AssociationsAnalyzer']"
+        name="visibility">public</attr>
+
+  <attr path="/api/package[@name='org.litepal.tablemanager']/class[@name='Creator']"
+        name="visibility">public</attr>
+
+  <attr path="/api/package[@name='org.litepal.crud']/class[@name='DataHandler']"
+        name="visibility">public</attr>
+
+  <attr path="/api/package[@name='com.bumptech.glide']/
+    class[@name='BitmapRequestBuilder']/
+    method[@name='fitCenter']"
+    name="managedReturn">GenericRequestBuilder</attr>
+
+  <attr path="/api/package[@name='com.bumptech.glide']/
+    class[@name='BitmapRequestBuilder']/
+    method[@name='centerCrop']"
+    name="managedReturn">GenericRequestBuilder</attr>
+
+  <attr path="/api/package[@name='com.bumptech.glide']/
+    class[@name='DrawableRequestBuilder']/
+    method[@name='crossFade']"
+    name="managedReturn">GenericRequestBuilder</attr>
+
+  <attr path="/api/package[@name='com.bumptech.glide']/
+    class[@name='DrawableRequestBuilder']/
+    method[@name='fitCenter']"
+    name="managedReturn">GenericRequestBuilder</attr>
+
+  <attr path="/api/package[@name='com.bumptech.glide']/
+    class[@name='DrawableRequestBuilder']/
+    method[@name='crossFade']"
+    name="managedReturn">GenericRequestBuilder</attr>
+
+  <attr path="/api/package[@name='com.bumptech.glide']/
+    class[@name='DrawableRequestBuilder']/
+    method[@name='centerCrop']"
+    name="managedReturn">GenericRequestBuilder</attr>
+
+  <attr path="/api/package[@name='com.bumptech.glide']/
+    class[@name='GifRequestBuilder']/
+    method[@name='fitCenter']"
+    name="managedReturn">GenericRequestBuilder</attr>
+
+  <attr path="/api/package[@name='com.bumptech.glide']/
+    class[@name='GifRequestBuilder']/
+    method[@name='centerCrop']"
+    name="managedReturn">GenericRequestBuilder</attr>
+
+  <attr path="/api/package[@name='com.bumptech.glide']/
+    class[@name='GifRequestBuilder']/
+    method[@name='crossFade']"
+    name="managedReturn">GenericRequestBuilder</attr>
+
+  <attr path="/api/package[@name='com.bumptech.glide']/class[@name='Priority']/field[@name='priority']"
+        name="managedName">mPriority</attr>
+
+  <attr path="/api/package[@name='com.dynamsoft.camerasdk.view']/interface[@name='DcsImageEditorViewListener']/method[@name='onCancelTapped']/parameter[@name='p0']"
+        name="name">paramDcsImageEditorView</attr>
+
+  <attr path="/api/package[@name='com.dynamsoft.camerasdk.view']/interface[@name='DcsImageEditorViewListener']/method[@name='onOkTapped']/parameter[@name='p0']"
+        name="name">paramDcsImageEditorView</attr>
+
+  <attr path="/api/package[@name='com.dynamsoft.camerasdk.view']/interface[@name='DcsImageEditorViewListener']/method[@name='onOkTapped']/parameter[@name='p1']"
+        name="name">paramDcsException</attr>
+
+  <remove-node path="/api/package[@name='com.bumptech.glide']/class[@name='ListPreloader.PreloadTarget']/method[@name='onResourceReady']" />
+  
+  <remove-node path="/api/package[@name='com.bumptech.glide.load.data']/class[@name='LocalUriFetcher']/method[@name='close']" />
+
+  <remove-node path="/api/package[@name='com.bumptech.glide.load.data']/class[@name='LocalUriFetcher']/method[@name='loadResource']" />
+
+  <remove-node path="/api/package[@name='com.bumptech.glide.load.data']/class[@name='AssetPathFetcher']/method[@name='close']" />
+
+  <remove-node path="/api/package[@name='com.bumptech.glide.load.data']/class[@name='AssetPathFetcher']/method[@name='loadResource']" />
+
+  <remove-node path="/api/package[@name='com.bumptech.glide.load.engine.cache']/interface[@name='MemoryCache']/method[@name='put']" />
+
+  <remove-node path="/api/package[@name='com.bumptech.glide.load.engine.cache']/interface[@name='MemoryCache']/method[@name='remove']" />
+
+  <remove-node path="/api/package[@name='com.bumptech.glide.load.model']/interface[@name='ModelLoader']/method[@name='getResourceFetcher']" />
+
+  <remove-node path="/api/package[@name='com.bumptech.glide.load']/interface[@name='Encoder']/method[@name='encode']" />
+
+  <remove-node path="/api/package[@name='com.bumptech.glide.load']/interface[@name='ResourceDecoder']/method[@name='decode']" />
+
+  <remove-node path="/api/package[@name='com.bumptech.glide.request.target']/interface[@name='Target']/method[@name='onResourceReady']" />
+
+  <remove-node path="/api/package[@name='com.bumptech.glide.request.target']/class[@name='ImageViewTarget']/method[@name='setResource']" />
+
+  <remove-node path="/api/package[@name='org.litepal.tablemanager']/class[@name='AssociationCreator']/method[@name='createOrUpgradeTable']" />
+
+  <remove-node path="/api/package[@name='com.bumptech.glide.request.animation']/interface[@name='GlideAnimation.ViewAdapter']/method[@name='getView']" />
+
+  <remove-node path="/api/package[@name='com.bumptech.glide.load.data']/interface[@name='DataFetcher']/method[@name='loadData']" />
+
+  <remove-node path="/api/package[@name='com.bumptech.glide.load.engine']/interface[@name='Resource']/method[@name='get']" />
+
+  <remove-node path="/api/package[@name='com.bumptech.glide.load.resource.bitmap']/interface[@name='BitmapDecoder']/method[@name='decode']" />
+
+  <!-- <attr path="/api/package[@name='com.dynamsoft.camerasdk.io.a']/class[@name='b']"
+    name="obfuscated">false</attr> -->
+  
+</metadata>
